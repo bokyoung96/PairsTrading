@@ -1,2 +1,0 @@
-# PairsTrading
-Pair trading module.
